@@ -35,25 +35,30 @@ Este projeto não apenas me ajudou a consolidar esses conhecimentos, mas também
 
 É super simples! Basta seguir estes passos:  
 
-1️⃣ **Clone este repositório**  
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+1️⃣ **Clone este repositório**     
+    `git clone https://git@github.com:Axion986/PortfolioOficial.git`
+    
+     cd seu-repositorio
+     
 2️⃣ Instale as dependências
-   npm install
+    `npm install`
+    
 3️⃣ Inicie o servidor de desenvolvimento
-   npm run dev
+    `npm run dev`
+    
 4️⃣ Abra no navegador
    Acesse: http://localhost:3000
+   
 📦 Como gerar uma build para produção?
+
 Se quiser criar uma versão otimizada do projeto, use:
 
-bash
-npm run build
+`npm run build`
+
 Para testar a versão pronta sem precisar de um servidor externo:
 
-bash
-npm run preview
-
-💡 Contribuição
+ `npm run preview`
+ 
+---
+##💡 Contribuição
 Se quiser contribuir com melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request. Toda ajuda é bem-vinda! 😊
